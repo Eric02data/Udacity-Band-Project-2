@@ -6,4 +6,4 @@ Based on data set from financial performance of companies in NYSE S&P, EXCEL was
 - Income statement
 - Forecast financial metrics
 
-Findings on Income statement and Financial forecast can viewed via the attached uploaded file,
+Findings on Income statement and Financial forecast can viewed via the attached uploaded file.
